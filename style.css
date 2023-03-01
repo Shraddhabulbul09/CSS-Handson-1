@@ -1,0 +1,30 @@
+#h1{
+    color: red;
+}
+.first{
+    color: red;
+    font-style: italic; 
+}
+.second{
+    color: brown;
+    letter-spacing: 3px;
+}
+.third{
+    background-color: yellow;
+}
+.fourth{
+    text-decoration-line: line-through;
+}
+.fifth{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+.sixth{
+    color: rgb(140, 84, 27);
+}
+.seventh{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration-line:none ;
+}
